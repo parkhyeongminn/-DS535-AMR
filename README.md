@@ -1,1 +1,1 @@
-# -DS535-AMR
+# [DS535] AMR: Aspect-aware Mooc Recommendation in a Heterogeneous View
