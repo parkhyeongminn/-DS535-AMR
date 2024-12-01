@@ -1,0 +1,6 @@
+python = 3.9.18
+tqdm
+dgl = 1.1.2
+numpy = 1.26.2
+pandas = 2.1.0
+torch = 2.0.1
